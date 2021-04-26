@@ -16,6 +16,10 @@ While OpenSesame can run on prototype/hobby hardware platform a custom board wil
 _[1] To add supported hardware create a pull request with the required table information. <br>
 [2] Verified boards have been tested by Recursion.Space with the latest version of OpenSesame to validate functionality. To submit hardware for verification email info@recursion.space_
 
+# IDE
+
+To lower participation barriers the Arduino IDE is supported with the use of .ino files.
+
 # Community
 
 <div align="center">
