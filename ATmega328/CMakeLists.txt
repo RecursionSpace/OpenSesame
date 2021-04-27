@@ -4,4 +4,4 @@ cmake_minimum_required(VERSION 3.10)
 project(OpenSesame)
 
 # add the executable
-add_executable(OpenSesame ATmega328/main.cpp)
+add_executable(OpenSesame main.cpp)
