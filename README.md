@@ -20,6 +20,10 @@ _[1] To add supported hardware create a pull request with the required table inf
 
 To lower participation barriers the Arduino IDE is supported with the use of .ino files.
 
+# Continuous Integration
+
+All code will need to follow the brest practices and standards outlined by [MISRA](https://www.misra.org.uk/MISRAHome/MISRAC2012/tabid/196/Default.aspx)
+
 # Community
 
 <div align="center">
