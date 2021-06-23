@@ -9,9 +9,9 @@ While OpenSesame can run on prototype/hobby hardware platform a custom board wil
 ### Supported Hardware<sup>1</sup>
 
 | Controller Name | Producer        | URL                                                      | Verified<sup>2</sup> |
-| --------------- | --------------- | -------------------------------------------------------- | :------------------: |
+|-----------------|-----------------|----------------------------------------------------------|:--------------------:|
 | Sesame Seed     | Recursion.Space | [recursion.space/sesameseed](recursion.space/sesameseed) |          ✓           |
-|                 |                 |                                                          |                      |  |
+|                 |                 |                                                          |                      |
 
 _[1] To add supported hardware create a pull request with the required table information. <br>
 [2] Verified boards have been tested by Recursion.Space with the latest version of OpenSesame to validate functionality. To submit hardware for verification email info@recursion.space_
