@@ -35,6 +35,22 @@ Each controller is designed to function with the input of a single card reader, 
 # IBC
 : The model building code used in most states and municipalities. An understanding of the sections titled Use and Occupancy and Means of Egress are important. Following adoption of a new code, many jurisdictions publish a list of changes to the code pertaining to their jurisdiction.
 
+# Codes Regulating Electronic Locking
+
+| Model Code and Year | Sensor/button/time and fire alarm tie-in | Switch in hardware no fire alarm tie-in                  | Controlled Egress    | Delayed Egress  |
+|---------------------|------------------------------------------|----------------------------------------------------------|----------------------|-----------------|
+| NFPA-all years      | Yes, 7.2.1.6.2                           | Yes, 7.2.1.5.2                                           | Yes, 18.2.2.2.4      | Yes, 7.2.1.6.1  |
+| IBC 2000            | Yes, 1008.1.9.8                          | Silent                                                   | No                   | Yes, 1008.1.9.7 |
+| IBC 2003            | Yes, 1008.1.9.8                          | Silent                                                   | No                   | Yes, 1008.1.9.7 |
+| IBC 2006            | Yes, 1008.1.9.8                          | Silent                                                   | No                   | Yes, 1008.1.9.7 |
+| IBC 2009            | Yes, 1008.1.9.8                          | Yes, but not when panic hardware is required, 1008.1.9.9 | No                   | Yes, 1008.1.9.7 |
+| IBC 2012            | Yes, 1008.1.9.8                          | Yes, 1008.1.9.9                                          | Yes, I-2 Occupancies | Yes, 1008.1.9.7 |
+
+
+
+
+
+
 
 
 # Hardware (Control Boards)
