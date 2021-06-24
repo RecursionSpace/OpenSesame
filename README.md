@@ -47,12 +47,6 @@ Each controller is designed to function with the input of a single card reader, 
 | IBC 2012            | Yes, 1008.1.9.8                          | Yes, 1008.1.9.9                                          | Yes, I-2 Occupancies | Yes, 1008.1.9.7 |
 
 
-
-
-
-
-
-
 # Hardware (Control Boards)
 
 While OpenSesame can run on prototype/hobby hardware platform a custom board will increase reliability in production environments and improve the instalation process.
