@@ -12,7 +12,6 @@
 - [Licensing](#licensing)
 
 ---
-<br>
 
 # What is OpenSesame?
 
