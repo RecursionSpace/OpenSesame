@@ -1,4 +1,4 @@
-<center> <h1> OpenSesame </h1></center>
+<div align="center"> <h1>OpenSesame</h1> </div>
 
 # Table of Contents
 - [Table of Contents](#table-of-contents)
