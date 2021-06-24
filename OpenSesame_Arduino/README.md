@@ -4,16 +4,22 @@ This version of OpenSesame has been developed to work on the [ATmega328P](https:
 
 ## PINS
 
-| Digital |  | Analog |  |
-|:--------|--|:-------|--|
-| D0      |  | A0     |  |
-| D1      |  | A1     |  |
-| D2      |  | A2     |  |
-| D3      |  | A3     |  |
-| D4      |  | A4     |  |
-| D5      |  | A5     |  |
-| D6      |  | A6     |  |
-| D7      |  | A7     |  |
+| Digital |                    | Analog |               |
+|:--------|--------------------|:-------|---------------|
+| D0      | RX Programming Pin | A0     | System Status |
+| D1      | TX Programming Pin | A1     |               |
+| D2      | Wiegand Low        | A2     |               |
+| D3      | Wiegand High       | A3     |               |
+| D4      | Wiegand LED        | A4     |               |
+| D5      | DoorA Trigger      | A5     |               |
+| D6      | Button Signal      | A6     |               |
+| D7      | Motion Signal      | A7     |               |
+| D8      | XBee TX            |        |               |
+| D9      | XBee RX            |        |               |
+| D10     | SS                 |        |               |
+| D11     | MOSI               |        |               |
+| D12     | MISO               |        |               |
+| D13     | SCK                |        |               |
 
 ## Memory Card (MicroSD)
 
