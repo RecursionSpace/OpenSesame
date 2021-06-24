@@ -1,6 +1,0 @@
-{
-    "board": "arduino:avr:uno",
-    "programmer": "arduino:avrispmkii",
-    "port": "COM5",
-    "sketch": "OpenSesame_Arduino\\OpenSesame_Arduino.ino"
-}
