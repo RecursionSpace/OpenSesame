@@ -1,7 +1,7 @@
 <div align="center"> <h1>OpenSesame</h1> </div>
 
-# Table of Contents
-- [Table of Contents](#table-of-contents)
+## Table of Contents
+
 - [What is OpenSesame?](#what-is-opensesame)
 - [Supported Protocols](#supported-protocols)
 - [Supported Controllers](#supported-controllers)
